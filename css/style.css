@@ -80,16 +80,6 @@ main{
 .nav-link:hover{color: var(--text); background: rgba(255,255,255,.06)}
 .nav-link.active{color: var(--text); background: rgba(43,123,255,.18); border:1px solid rgba(43,123,255,.25)}
 
-.nav-cta{
-  color:#071225;
-  text-decoration:none;
-  font-weight:900;
-  padding: 10px 14px;
-  border-radius: 14px;
-  background: linear-gradient(135deg, #67b0ff, var(--blue));
-  box-shadow: 0 16px 28px rgba(43,123,255,.20);
-}
-
 /* hamBurger */
 .hamburger{
   display:none;
