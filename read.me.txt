@@ -1,0 +1,16 @@
+Portfolio Website – Rizqy Muhammad Ramdhan
+
+Website portfolio pribadi Rizqy Muhammad Ramdhan, Kelas B.  
+Dibuat menggunakan : HTML, CSS, dan JavaScript (Vanilla JS) tanpa framework Yang dipakai hanya:
+document.getElementById, addEventListener, classList, FormData, querySelector.
+Semua API bawaan browser ( https://developer.mozilla.org/en-US/ ), dengan desain modern, dominan warna biru, dan responsive di semua device.
+
+Fitur Utama :
+
+- Multi-page: Home, About Me, Projects, Gallery, Contacts
+- Navbar burger (mobile friendly)
+- Footer sticky (selalu di bawah layar)
+- Responsive (desktop, tablet, mobile)
+- UI simpel, bersih, dan profesional
+- Reusable navbar & footer (load otomatis dengan JavaScript)
+- Validasi form kontak (frontend only)
